@@ -8,7 +8,7 @@
       <p><b>地址：比尔吉沃特，邮编？</b></p>
     </td>
     <td width="25%
-      <img src="/zhengjianzhao.jpg" width="100%">        - -未知
+     
     </td>
   </tr>
 </table>
